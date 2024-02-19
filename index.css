@@ -37,7 +37,7 @@ button {
 .container {
     background: black;
     opacity: 80%;
-    max-width: 80%;
+    max-width: 300px;
     margin: auto;
     border: 3px solid black;
     border-radius: 10px;
